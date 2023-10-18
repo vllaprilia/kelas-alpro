@@ -4,7 +4,7 @@ int main(){
     int c;
     float BMI,BB,TB;
     do {
-    printf("\n====KALKULATOR BMI====\n");
+    printf("\n==== KALKULATOR BMI ====\n");
     printf("(1)Laki-laki\n(2)Perempuan\nPilih Jenis Kelamin : "); scanf("%d",&c);
 
     switch (c)
